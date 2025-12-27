@@ -22,7 +22,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Prashant Kumar Mishra** | **Rishi Kumar** | **Satyam Bhardwaj** | **Mayank Shaw** | **Monil Mishra** | **Biswajit Ghadei** |
 | [@PRASHANT-MISHRA](https://github.com/PRASHANT-MISHRA-22) | [@rishikr507](https://github.com/rishikr507) | [@ijugunu](https://github.com/ijugunu) | [@mayank](https://www.linkedin.com/in/mayankshaw20/) | [@mishramonil](https://www.instagram.com/mishramonil/) | [@biswajit](https://www.linkedin.com/in/biswajit-ghadei-aa6588201/) |
-| Server Architecture & Multi-threading | Headquarters Client & Integration | Camp Client & Data Modeling | Camp Client Interface | Database Design & Operations | Database Integration & Utilities |
+| Server Architecture  | Headquarters Architecture | Camp Client | Camp Client | Database Design | Database Design |
 
 </div>
 
@@ -685,14 +685,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have a feature request? Please open an issue on GitHub or submit a pull request. Contributions are welcome!
 
-**Made with ❤️ by Team DRMS | NIT Patna**
+**Made with ❤️ by Team | NIT Patna**
 
 [Prashant Kumar Mishra](https://github.com/PRASHANT-MISHRA-22) • 
 [Rishi Kumar](https://github.com/rishikr507) • 
 [Satyam Bhardwaj](https://github.com/ijugunu) • 
-[Mayank Shaw](https://github.com/) • 
-[Monil Mishra](https://github.com/) • 
-[Biswajit Ghadei](https://github.com/)
+[Mayank Shaw](https://www.linkedin.com/in/mayankshaw20/) • 
+[Monil Mishra](https://www.instagram.com/mishramonil/) • 
+[Biswajit Ghadei](https://www.linkedin.com/in/biswajit-ghadei-aa6588201/)
 
 </div>
 
