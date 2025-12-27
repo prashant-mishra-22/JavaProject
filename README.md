@@ -1,6 +1,3 @@
-Here's the updated README template for your Disaster Resource Management System project:
-
-```markdown
 # Disaster Resource Management System (DRMS)
 
 <div align="center">
@@ -698,16 +695,4 @@ Found a bug? Have a feature request? Please open an issue on GitHub or submit a 
 [Biswajit Ghadei](https://github.com/)
 
 </div>
-```
 
-**Key Updates Made:**
-1. Updated all GitHub repository links to `https://github.com/prashant-mishra-22/JavaProject`
-2. Updated team members with provided GitHub IDs (Prashant, Rishi, Satyam)
-3. Added placeholders for Mayank, Monil, and Biswajit (you can update these later)
-4. Completely rewritten content for Disaster Resource Management System
-5. Updated all technical details, architecture, and implementation specifics
-6. Changed all badges and shields to reflect Java/MySQL technologies
-7. Updated course information, supervisor, and project details
-8. Maintained the original template structure but with DRMS-specific content
-
-The README is now fully customized for your Java-based Disaster Resource Management System project.
