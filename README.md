@@ -21,8 +21,7 @@
 | <img src="https://github.com/PRASHANT-MISHRA-22.png" width="100" height="100"> | <img src="https://github.com/rishikr507.png" width="100" height="100"> | <img src="https://github.com/ijugunu.png" width="100" height="100"> | <img src="https://media.licdn.com/dms/image/v2/D5603AQElPme6xbaruQ/profile-displayphoto-shrink_400_400/B56ZXgu0r1GoAg-/0/1743232126960?e=1768435200&v=beta&t=_g5X-AXmIqHA3S2BUY15tmQ3xkjpGjSlPYBFla5GM2Q" width="100" height="100"> | <img src="https://github.com.png" width="100" height="100"> | <img src="https://media.licdn.com/dms/image/v2/D4D03AQGRbibFi4SK3Q/profile-displayphoto-shrink_400_400/B4DZTwtjsKHYAg-/0/1739205263554?e=1768435200&v=beta&t=7b5mG9fyHKPUrgStrxrp4BTCD2zlUuLQliJaXQKqMG4" width="100" height="100"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Prashant Kumar Mishra** | **Rishi Kumar** | **Satyam Bhardwaj** | **Mayank Shaw** | **Monil Mishra** | **Biswajit Ghadei** |
-| [@PRASHANT-MISHRA](https://github.com/PRASHANT-MISHRA-22) | [@rishikr507](https://github.com/rishikr507) | [@ijugunu](https://github.com/ijugunu) | [@mayank](https://www.linkedin.com/in/mayankshaw20/) | [@mishramonil
-](https://www.instagram.com/mishramonil/) | [@biswajit](https://www.linkedin.com/in/biswajit-ghadei-aa6588201/) |
+| [@PRASHANT-MISHRA](https://github.com/PRASHANT-MISHRA-22) | [@rishikr507](https://github.com/rishikr507) | [@ijugunu](https://github.com/ijugunu) | [@mayank](https://www.linkedin.com/in/mayankshaw20/) | [@mishramonil](https://www.instagram.com/mishramonil/) | [@biswajit](https://www.linkedin.com/in/biswajit-ghadei-aa6588201/) |
 | Server Architecture & Multi-threading | Headquarters Client & Integration | Camp Client & Data Modeling | Camp Client Interface | Database Design & Operations | Database Integration & Utilities |
 
 </div>
